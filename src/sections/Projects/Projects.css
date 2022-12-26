@@ -1,0 +1,121 @@
+.dndstorybook,
+.arhinslim,
+.mtgprimers 
+{
+    border-radius: 1rem;
+    width: 33.3%;
+}
+.dndstorybook:hover,
+.arhinslim:hover,
+.mtgprimers:hover 
+{
+    box-shadow: 0 -1px 4px rgb(0 0 0 / 15%);
+}
+
+.pokemonweaknesschart,
+.rockpaperscissors,
+.litinfo,
+.hamiltonwardinfo 
+{
+    border-radius: 1rem;
+    width: 25%;
+    height:auto;
+}
+.pokemonweaknesschart:hover,
+.rockpaperscissors:hover,
+.litinfo:hover,
+.hamiltonwardinfo:hover 
+{
+    box-shadow: 0 -1px 4px rgb(0 0 0 / 15%);
+}
+
+.financetracker,
+.blackjack 
+{
+    border-radius: 1rem;
+    width: 50%;
+}
+
+.financetracker:hover,
+.blackjack:hover
+{
+    box-shadow: 0 -1px 4px rgb(0 0 0 / 15%);
+}
+
+.ongoing
+{
+    padding-top:80px;
+}
+ 
+.completed,
+.future{
+    margin-top:80px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.modal{
+    display: block;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.modalImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 5px;
+}
+.modalTitle
+{
+    padding-top:20px;
+    text-align: center;
+}
+.modalDesc {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.modalRow {
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 10px;
+}
+
+.modalButton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    padding: 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    border-color: white;
+    background-color: #444;
+    color: white;
+    text-align: center;
+}
+
+.modalButton:hover{
+    opacity: 0.9;
+}
+
+@media screen and (max-width: 768px){
+
+}
+
+
+

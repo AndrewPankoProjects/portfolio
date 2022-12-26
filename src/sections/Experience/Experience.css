@@ -1,0 +1,22 @@
+.procor{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#experience{
+    padding-top: 80px;
+}
+
+.procorExperience{
+    padding-bottom: 20px;
+}
+
+@media screen and (max-width: 768px){
+    .procor{
+        width: 300px;
+        height: auto;
+        display: block;
+    }
+}

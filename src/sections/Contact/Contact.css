@@ -1,0 +1,42 @@
+.contactBox{
+    margin-bottom: 160px;
+    padding-bottom: 20px;
+}
+
+#contact {
+    padding-top: 40px;
+}
+
+textarea {
+    border-radius: 6px;
+    width: 400px;
+    height: 150px;
+    text-decoration: none;
+}
+
+.contactName,
+.contactEmail
+ {
+    border-radius: 6px;
+    height: 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.contactSubmit,
+.contactReset{
+    width: 80px;
+    height:30px;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+
+.labelName,
+.labelEmail,
+.labelMessage 
+{
+    font-size: 20px;
+    margin-top: 10px;
+}

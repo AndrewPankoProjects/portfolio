@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d1129d1e.css",
+    "main.css": "/portfolio/static/css/main.9f59c973.css",
     "main.js": "/portfolio/static/js/main.2b2bccea.js",
     "static/media/litinfo.png": "/portfolio/static/media/litinfo.1ab52686db1ea698cdbb.png",
     "static/media/hwi.png": "/portfolio/static/media/hwi.8cec98ace07651ea409e.png",
@@ -13,11 +13,11 @@
     "static/media/dndwarwizard.png": "/portfolio/static/media/dndwarwizard.70b2a5feb87b37f5977a.png",
     "static/media/dnd.png": "/portfolio/static/media/dnd.da6eed8ba76b69c2c0ca.png",
     "index.html": "/portfolio/index.html",
-    "main.d1129d1e.css.map": "/portfolio/static/css/main.d1129d1e.css.map",
+    "main.9f59c973.css.map": "/portfolio/static/css/main.9f59c973.css.map",
     "main.2b2bccea.js.map": "/portfolio/static/js/main.2b2bccea.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1129d1e.css",
+    "static/css/main.9f59c973.css",
     "static/js/main.2b2bccea.js"
   ]
 }

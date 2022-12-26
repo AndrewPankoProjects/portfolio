@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e533b12d.css",
+    "main.js": "/portfolio/static/js/main.769f988d.js",
+    "static/media/litinfo.png": "/portfolio/static/media/litinfo.1ab52686db1ea698cdbb.png",
+    "static/media/hwi.png": "/portfolio/static/media/hwi.8cec98ace07651ea409e.png",
+    "static/media/profilepic.png": "/portfolio/static/media/profilepic.9264aee9983d10fd3486.png",
+    "static/media/arhinslim.png": "/portfolio/static/media/arhinslim.bb21b84273cce7a85fac.png",
+    "static/media/procor.jpg": "/portfolio/static/media/procor.54de12040be673f5315f.jpg",
+    "static/media/rockpaperscissors.png": "/portfolio/static/media/rockpaperscissors.81ab75d6afd9b537a821.png",
+    "static/media/weaknesschart.png": "/portfolio/static/media/weaknesschart.d473b3f5cd79f8dee78e.png",
+    "static/media/Poppins.ttf": "/portfolio/static/media/Poppins.35d26b781dc5fda684cc.ttf",
+    "static/media/dndwarwizard.png": "/portfolio/static/media/dndwarwizard.70b2a5feb87b37f5977a.png",
+    "static/media/dnd.png": "/portfolio/static/media/dnd.da6eed8ba76b69c2c0ca.png",
+    "index.html": "/portfolio/index.html",
+    "main.e533b12d.css.map": "/portfolio/static/css/main.e533b12d.css.map",
+    "main.769f988d.js.map": "/portfolio/static/js/main.769f988d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e533b12d.css",
+    "static/js/main.769f988d.js"
+  ]
+}

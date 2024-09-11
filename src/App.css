@@ -1,0 +1,12 @@
+main{
+  color:#222;
+  font-family: Poppins;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(../public/fonts/Poppins.ttf);
+}

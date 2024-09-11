@@ -1,0 +1,52 @@
+#about{
+    padding-top: 80px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.box{
+    box-shadow: 0 -1px 4px rgb(0 0 0 / 15%);
+    margin-top: 80px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 80px;
+  }
+
+.paragraph{
+    margin: 30px;
+}
+
+.icons{
+    margin: 50px;
+    font-size: 34px;
+}
+.iconbox{
+    border-radius: 1rem;
+    width: 14.28%;
+}
+.iconbox:hover{
+    box-shadow: 0 -1px 4px rgb(0 0 0 / 15%);
+}
+
+.iconSection{
+    padding-bottom: 20px;
+}
+
+@media screen and (max-width: 768px){
+    .box{
+        margin: 0px;
+    }
+    .icons{
+        margin: 10px;
+        font-size: 34px;
+    }
+}

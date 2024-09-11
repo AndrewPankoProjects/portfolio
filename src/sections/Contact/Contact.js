@@ -5,16 +5,9 @@ const Contact = () => {
         <section>
             <div className='box'>
                 <h1 id="contact">Contact Me</h1>
-                <form className="contactBox" action='mailto:andrew.s.panko@gmail.com' method="post" enctype="text/plain">
-                    <label className='labelName'>Name</label><br/>
-                    <input className="contactName" type = "text" name="name" size="30" required/><br/>
-                    <label className='labelEmail'>Email</label><br/>
-                    <input className="contactEmail" type = "email" name="mail" size="30" required/><br/>
-                    <label className='labelMessage'>Message</label><br/>
-                    <textarea className="contactMessage"name="message" /><br/>
-                    <input className="contactSubmit" type="submit" value="Send" /><br/>
-                    <input className="contactReset" type="reset" value="Reset" />
-                </form>
+                <a href="https://www.linkedin.com/in/apanko/" className="homeLinkedin"><i className="fa-brands fa-linkedin"></i>@Andrew Panko's Linkedin</a>
+                <a href="https://github.com/AndrewPankoProjects" className="homeGithub"><i className="fa-brands fa-github">@AndrewPankoProjects</i></a>
+                <a href="mailto:andrew.s.panko@gmail.com"><i className="fa-brands fa-envelope">@Andrew Panko's Email</i></a>
             </div>
         </section>
     )
